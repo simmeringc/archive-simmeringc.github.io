@@ -1,6 +1,6 @@
 # simmeringc.github.io
 ```
-Personal Website
+Personal Website - Created by simmeringc
 DNS -> simmeringc.com
 ```
 
