@@ -76,6 +76,19 @@ nav .row {
   height: 25px;
 }
 
+#about {
+	text-align: center;
+}
+
+#about h1 {
+	margin-bottom: 10px;
+}
+
+#about h2 {
+	margin-top: 0px;
+}
+
+
 #footer {
 	background: #1E1E29;
 	border-top: 4px solid #fed136;
