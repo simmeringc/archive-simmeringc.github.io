@@ -10,6 +10,15 @@ Todo:
 	header nav bar touches border?
 	zoom in far bars
 	FIX NAV A TAG BORDER BOTTOM PADDING
+	background-color: #D5D5D5;
+	background: #f2f2f2;
+    border-bottom: 1px solid #d8d8d8;
+    Lucida Sans Unicode,Lucida Grande,sans-serif;
+    more of a tealish banner check monitors
+    "click me"
+    "oh my gosh whisp"
+    inspect elemnt white space
+    comment all
 
 
 	bottom footer blocks example:
