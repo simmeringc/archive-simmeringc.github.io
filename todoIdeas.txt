@@ -23,6 +23,7 @@ Todo:
     change all direct tag css's to divs
     credit font awesome everywhere
     HTML/CSS/JS
+    remove extra photos organize folders check css div scheme sectionss
 
 
 	bottom footer blocks example:
