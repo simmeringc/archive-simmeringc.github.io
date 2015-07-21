@@ -19,6 +19,10 @@ Todo:
     "oh my gosh whisp"
     inspect elemnt white space
     comment all
+    google analytics
+    change all direct tag css's to divs
+    credit font awesome everywhere
+    HTML/CSS/JS
 
 
 	bottom footer blocks example:

@@ -75,10 +75,9 @@ nav ul li a:hover {
 }
 
 
-#about h1 {
-
+.sectionHead {
 	
-	font-size: 42px;
+	font-size: 28px;
     margin-bottom: 10px;
     display: inline-block;
     width: 1040px;
@@ -86,30 +85,81 @@ nav ul li a:hover {
     text-align: left;
 }
 
-#about p {
+.aboutBody {
 	font-size: 20px;
-	margin-top: 30px;
-    margin-bottom: 50px;
+	margin-top: 20px;
+    margin-bottom: 30px;
     display: inline-block;
     width: 1040px;
     text-align: left;
     padding-left: 100px;
+    display: inline-block;
 }
 
 .row {
   	display: inline-block;
   	height: 390px;
-  	width: 1070px;
+  	width: 1220px;
+  	background: #f2f2f2;
+  	box-shadow: 0 0 8px rgba(0, 0, 0, .4);
 }
 
+.leftRowBody p{
+	display: inline;
+	float: right;
+	margin: 0;
+	font-size: 18px;
+}
+
+.rightRowBody p{
+	display: inline;
+	float: left;
+	margin: 0;
+	font-size: 18px;
+}
+
+.rightRowBody a {
+  font-size: 18px;
+  color: #000;
+  background-color: transparent;
+  text-decoration: none;
+  float: left;
+}
+
+.rightRowBody a:link {
+  color: #000;
+}
+
+.rightRowBody a:hover {
+  color: #556565;
+}
+
+.rightRowBody a:visited {
+  color: #000;
+}
+
+
 .column-portrait-left{
+	margin-top: 45px;
 	position: relative;
 	float: left;
 	height: 390px;
 	width: 365px;
 }
 
+.column-portrait-left h2{
+	text-align: right;
+	margin-bottom: 10px;
+}
+
+.column-portrait-right h2{
+	text-align: left; 
+	margin-bottom: 10px;
+}
+
+
 .column-portrait-right{
+	margin-top: 45px;
 	position: relative;
 	float: right;
 	height: 390px;
@@ -121,10 +171,25 @@ nav ul li a:hover {
 	position: relative;
 	text-align: center;
 	vertical-align: center;
-	height: 340px;
-	width: 340px;
+    margin-top: 23px;
+	height: 330px;
+	width: 420px;
 }
 
+.square {
+	
+	box-shadow: 0 0 8px rgba(0, 0, 0, .3);
+}
+
+#experience {
+	text-align: center;
+}
+
+#experience {
+	text-align: center;
+	margin-top: 70px;
+	background: #d1dbbd;
+}
 
 #footer {
 	background: #1E1E29;
