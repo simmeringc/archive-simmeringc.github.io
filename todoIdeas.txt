@@ -25,6 +25,10 @@ Todo:
     HTML/CSS/JS
     remove extra photos organize folders check css div scheme sections
     DISABLE PAGE ZOOM
+    
+    add to resume multi-page/other frameworks used (jekell)
+    jekell blog support
+    readme.md tools and methods description
 
 
 	bottom footer blocks example:
