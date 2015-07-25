@@ -6,6 +6,18 @@ body {
   font-family: 'Droid', serif;
 }
 
+
+
+.notBoldItalic{
+    font-weight: normal;
+    font-style: italic;
+}​
+
+.workExperienceList ul{
+	list-style-type: disk;
+	font-weight: normal;
+}
+
 .banner {
 	width: auto;
 	height: 135px;
@@ -190,7 +202,7 @@ nav ul li a:hover {
 	background: #d1dbbd;
 }
 
-.touchSourceHeader{
+.jobHeader{
 	display: inline-block;
 	margin-top: 50px;
 	height: 55px;
@@ -199,19 +211,19 @@ nav ul li a:hover {
 	font-weight: bold;
 }
 
-.touchSourceHeader h1{
+.jobHeader h1{
 	padding-left: 145px;
 	font-size: 24px;
 }
 
-.touchSourceHeader img{
+.jobHeader img{
 	position:absolute;
 	padding-top: 10px;
 }
 
-.touchSourceBody {
+.jobBody {
 	display: inline-block;
-	font-weight: bold;
+	
 	margin-top: -10px;
 	font-size: 19px;
 	height: 55px;
