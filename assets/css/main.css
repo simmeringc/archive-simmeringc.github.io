@@ -95,6 +95,7 @@ nav ul li a:hover {
     width: 1040px;
     height: 40px;
     text-align: left;
+    text-decoration: underline;
 }
 
 
@@ -229,6 +230,19 @@ nav ul li a:hover {
 	width: 1040px;
 	padding-left: 295px;
 	text-align: left;
+}
+
+#projects {
+	text-align: center;
+	background: #91aa9d;
+}
+
+#resume {
+	background: #3e606f;
+}
+
+#contact{
+	background: #193441;
 }
 
 #footer {
