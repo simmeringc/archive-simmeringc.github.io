@@ -238,10 +238,12 @@ nav ul li a:hover {
 }
 
 #resume {
+	text-align: center;
 	background: #3e606f;
 }
 
 #contact{
+	text-align: center;
 	background: #193441;
 }
 
