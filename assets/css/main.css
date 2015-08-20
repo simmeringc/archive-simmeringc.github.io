@@ -242,6 +242,15 @@ nav ul li a:hover {
 	background: #3e606f;
 }
 
+
+#resume i {
+	color: #ff0000;
+}
+
+.sectionSeparator {
+	padding-bottom: 64px;
+}
+
 #contact{
 	text-align: center;
 	background: #193441;
