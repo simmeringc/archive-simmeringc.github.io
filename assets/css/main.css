@@ -8,12 +8,35 @@ body {
   overflow-x: hidden; 
 }
 
+.go-top {
+    position: fixed;
+    bottom: 0.75em;
+    right: 0.5em;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.25);
+    font-size: 24px;
+    padding: 10px;
+    display: none;
+    margin: 0;
+}
 
+.go-top:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    text-decoration: none;
+}
 
 .notBoldItalic{
     font-weight: normal;
     font-style: italic;
 }​
+
+.notBold{
+    font-weight: normal;
+    font-style: normal;
+}​
+
 
 .workExperienceList ul{
 	list-style-type: disk;
@@ -237,6 +260,19 @@ nav ul li a:hover {
 #projects {
 	text-align: center;
 	background: #91aa9d;
+}
+
+#projects a {
+  color: #0D4F8B;
+  text-align: center;
+}
+
+#projects a:link {
+  color: #0D4F8B;
+}
+
+#projects a:visited {
+  color: #0D4F8B;
 }
 
 #resume {
